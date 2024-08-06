@@ -1,0 +1,20 @@
+.recent-orders {
+    background-color: #3a3b3c;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .recent-orders ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recent-orders li {
+    padding: 10px 0;
+    border-bottom: 1px solid #444;
+  }
+  
+  .recent-orders li:last-child {
+    border-bottom: none;
+  }
+  
